@@ -1,0 +1,10 @@
+name: auth
+version: 1
+main: me.naiak.auth.Main
+description: authentication
+author: naiak
+website: https://naiak.me
+api-version: '1.18'
+commands:
+  hello:
+    description: simple hello command

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="auth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/auth_jar</output-path>
+    <root id="archive" name="auth.jar">
+      <element id="module-output" name="auth" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
