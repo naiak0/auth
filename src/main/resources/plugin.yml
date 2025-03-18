@@ -8,3 +8,7 @@ api-version: '1.18'
 commands:
   hello:
     description: simple hello command
+  register:
+    description: register command
+  login:
+    description: login command
